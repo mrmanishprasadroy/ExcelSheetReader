@@ -1,0 +1,12 @@
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\bin\Release\Hopstarter-Soft-Scraps-Document-Microsoft-Excel.ico
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\bin\Release\SQL Script.exe
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\bin\Release\SQL Script.pdb
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\bin\Release\EPPlus.dll
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\bin\Release\EPPlus.xml
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\obj\x86\Release\SQL_SCRIPT_EXTENSION.ScriptGenerator.resources
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\obj\x86\Release\SQL_SCRIPT_EXTENSION.Properties.Resources.resources
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\obj\x86\Release\SQL_SCRIPT_EXTENSION.WhereForm.resources
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\obj\x86\Release\SQL_SCRIPT_EXTENSION.csproj.GenerateResource.Cache
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\obj\x86\Release\SQL Script.exe.licenses
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\obj\x86\Release\SQL Script.exe
+D:\Test_project\Excel_SQL_SCRIPT\SQL_SCRIPT_EXTENSION\SQL_SCRIPT_EXTENSION\obj\x86\Release\SQL Script.pdb
